@@ -1,4 +1,4 @@
-# API utilizando NodeJS + Express e Banco de Dados MongoDB
+# API com autenticação JWT utilizando NodeJS + Express e Banco de Dados MongoDB
 
 ## Explicação
 
