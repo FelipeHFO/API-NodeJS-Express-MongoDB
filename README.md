@@ -2,7 +2,9 @@
 
 ## Explicação
 
-* O projeto consiste em uma API feita com NodeJS + Express para montar as rotas, fazer as validações e guardar ou recuperar os dados do Banco de Dados NoSQL MongoDB.
+* O Projeto é um sistema de Login com autenticação JWT.
+* O NodeJS + Express montam as rotas e são os responsáveis por fazer toda a lógica de autenticação e validação.
+* O Banco de Dados NoSQL MongoDB é responsável por consistir esses dados que são usuários se registrando.
 
 ## Stack
 
